@@ -49,6 +49,29 @@ public class Main {
         var once= hours / more;
         System.out.println("  Если в компании работает " + more + " человек, то всего " + once + " часов может быть поделено между сотрудниками ");
 
+
+
+        byte g = 1;
+        int h = 2;
+                short j= 3;
+                System.out.println("Значение переменной g с типом byte равно "+g);
+                long k= 4;
+                float l= 5.1f;
+                double z= 6.1f;
+                System.out.println(" Значение переменной h с типом int равно " +h);
+                System.out.println("Значение переменной j с типом short равно "+j);
+                System.out.println(" Значение переменной k с типом long равно "+k);
+                System.out.println(" Значение переменной l с типом float равно "+l);
+                System.out.println(" Значение переменной z с типом double равно "+z);
+                float fl= 27.12f;
+                long lo= 987 678 965 549;
+                float fl1= 2.786f;
+                short sh=569;
+                short sh1=-159;
+                short sh2=27897;
+                byte by=67;
+
+
     }
 }
 
