@@ -220,7 +220,7 @@ public class Main {
         } else if (clientOS == 0 && clientDeviceYear >= 2015){
             System.out.println(" Установите  версию приложения для IOS по ссылке");
         }else if (clientOS == 1 && clientDeviceYear < 2015){
-            System.out.println("Установите облегченную версию приложения для Андроиид по ссылке");
+            System.out.println("Установите облегченную версию приложения для Андроид по ссылке");
         } else {
             System.out.println("Установите версию приложения для Андроид по ссылке");}
 
